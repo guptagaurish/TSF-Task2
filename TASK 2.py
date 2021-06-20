@@ -93,6 +93,7 @@ plt.scatter(kmeans.cluster_centers_[:, 0], kmeans.cluster_centers_[:,1],
 plt.legend()
 
 
+
 # ### Task Completed Successfully
 
 # In[ ]:
